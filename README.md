@@ -3,7 +3,7 @@
 A simple static website that contains 11 communication strategies with examples.
 
 ## Demo
-Here is a working live demo: https://static-website.epizy.com/index.html
+Here is a working live demo: https://static-website-new.vercel.app/
 
 ## Built With
 
